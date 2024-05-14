@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9OtpOEet7kdNzEgmzVLxnHOePUtrl",
+    "object": "chat.completion",
+    "created": 1715721502,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "A yellow and black screwdriver."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1132,
+        "completion_tokens": 6,
+        "total_tokens": 1138
+    },
+    "system_fingerprint": "fp_927397958d"
+}
